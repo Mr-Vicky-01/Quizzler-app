@@ -2,6 +2,8 @@
 
 Welcome to Quizzler, a quiz application built using Python's Tkinter library and Object-Oriented Programming principles. This app fetches questions and answers from an external API to provide an interactive quiz experience.
 
+![OIP](https://github.com/Mr-Vicky-01/Volume-Controller/assets/143078285/2a4ea118-0659-4bc0-a24d-8efa587ced03)
+
 ## Features
 
 - Utilizes the Open Trivia Database API to fetch quiz questions.
